@@ -6,7 +6,7 @@
 
  - let's start first with the Home page
 
-    ![Home page wireframe](homePage-wireframe.jpg)
+    ![Home page wireframe](../task-manager/images/homePage-wireframe.jpg)
 
     **Header section**
 
@@ -28,7 +28,7 @@
 
  - **About page**
 
- ![about page](aboutPage-wireframe.jpg)
+ ![about page](../task-manager/images/aboutPage-wireframe.jpg)
 
   Now we have the about page, actually the about page contains also 3 sections, 
 
