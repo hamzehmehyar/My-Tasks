@@ -41,5 +41,7 @@
 
    - lastly we have a footer section that will contain a copyright information and a short message.
 
+   a host to be added later
+
    
 
